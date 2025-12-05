@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yyy on BangmodFusionHub</title>
+    <link>http://localhost:1313/BangmodFusionHub/tags/yyy/</link>
+    <description>Recent content in Yyy on BangmodFusionHub</description>
+    <generator>Hugo</generator>
+    <language>th</language>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/BangmodFusionHub/tags/yyy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tokamak (โทคาแมค)</title>
+      <link>http://localhost:1313/BangmodFusionHub/docs/test/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/BangmodFusionHub/docs/test/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;tokamak&lt;/strong&gt; is a device which uses a powerful magnetic field to confine plasma.&lt;/p&gt;&#xA;&lt;h2 id=&#34;physics-formulas&#34;&gt;Physics Formulas&lt;a class=&#34;anchor&#34; href=&#34;#physics-formulas&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Here is the Lawson criterion for ignition:&#xA;$$n \tau_E T \ge 3 \times 10^{21} , \text{keV s m}^{-3}$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;components&#34;&gt;Components&lt;a class=&#34;anchor&#34; href=&#34;#components&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vacuum Vessel&lt;/li&gt;&#xA;&lt;li&gt;Magnetic Coils&lt;/li&gt;&#xA;&lt;li&gt;Divertor&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

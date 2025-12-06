@@ -2,7 +2,7 @@
 title: "Tokamak (โทคาแมค)"
 date: 2025-12-05
 weight: 10
-draft: false
+draft: true
 tags: ["xxx", "yyy"]
 ---
 

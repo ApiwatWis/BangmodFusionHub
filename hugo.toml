@@ -12,7 +12,7 @@ theme = 'hugo-book'
   BookTheme = 'light'
   # This enables the formula rendering $$ ... $$
   BookMath = true 
-  BookLogo = 'images/logo.png' 
+  BookLogo = 'images/logo-without-text.png' 
 
 [markup]
   [markup.goldmark]

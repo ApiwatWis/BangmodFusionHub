@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Plasma Physics"
 weight: 1
-draft: false
+draft: true
 ---
 
 # Introduction to Plasma Physics
